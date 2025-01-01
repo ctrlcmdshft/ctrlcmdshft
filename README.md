@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](https://github.com/ctrlcmdshft/ctrlcmdshft/blob/main/github-header-image.png)
 
 <!--
 **ctrlcmdshft/ctrlcmdshft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
