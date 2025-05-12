@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">ctrlcmdshft</h1>
+<h1 align="center">CtrlCmdShft</h1>
 
 ###
 
