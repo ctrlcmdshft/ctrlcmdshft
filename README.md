@@ -38,5 +38,11 @@
 ---
 
 <div align="center">
+  <img src="https://ghchart.rshah.org/ctrlcmdshft" alt="Contribution heatmap" />
+</div>
+
+---
+
+<div align="center">
   <sub>Explore my repositories for more</sub>
 </div>
