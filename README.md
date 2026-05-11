@@ -14,9 +14,6 @@
 - [**homebridge-hubspace-platform**](https://github.com/ctrlcmdshft/homebridge-hubspace-platform) <br>
   <sub>TypeScript · Homebridge plugin that bridges Hubspace smart home devices (Home Depot / Afero cloud) into Apple HomeKit. Supports ceiling fans, lights, outlets, and switches.</sub>
 
-- [**hibp-checker**](https://github.com/ctrlcmdshft/hibp-checker) <br>
-  <sub>Python · Check email addresses and passwords against the Have I Been Pwned breach database.</sub>
-
 - [**RedditQuickAccess**](https://github.com/ctrlcmdshft/RedditQuickAccess) <br>
   <sub>JavaScript · Browser extension for quick access to Reddit saved posts and messages.</sub>
 
