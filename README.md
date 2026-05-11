@@ -12,8 +12,7 @@
 ## Projects
 
 - [**homebridge-hubspace-platform**](https://github.com/ctrlcmdshft/homebridge-hubspace-platform) <br>
-  <sub>TypeScript · Homebridge plugin that bridges Hubspace smart home devices (Home Depot / Afero cloud) into Apple HomeKit. Supports ceiling fans, lights, outlets, and switches.</sub> <br>
-  <a href="https://www.npmjs.com/package/homebridge-hubspace-platform"><img src="https://img.shields.io/npm/dt/homebridge-hubspace-platform?label=installs&color=informational" height="18" /></a>
+  <sub>TypeScript · Homebridge plugin that bridges Hubspace smart home devices (Home Depot / Afero cloud) into Apple HomeKit. Supports ceiling fans, lights, outlets, and switches.</sub>
 
 - [**RedditQuickAccess**](https://github.com/ctrlcmdshft/RedditQuickAccess) <br>
   <sub>JavaScript · Browser extension for quick access to Reddit saved posts and messages.</sub>
@@ -34,12 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="24" alt="VS Code" title="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" alt="Git" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="24" alt="macOS" title="macOS" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ctrlcmdshft&show_icons=true&hide_title=true&hide_border=true&count_private=true&theme=default" />
 </div>
 
 ---
