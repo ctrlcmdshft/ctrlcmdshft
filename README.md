@@ -4,39 +4,42 @@
   
   # CtrlCmdShft
   
-  **Welcome to my GitHub!**
+  **Building tools for the things that should just work.**
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## Projects
+
+- [**homebridge-hubspace-platform**](https://github.com/ctrlcmdshft/homebridge-hubspace-platform) <br>
+  <sub>TypeScript · Homebridge plugin that bridges Hubspace smart home devices (Home Depot / Afero cloud) into Apple HomeKit. Supports ceiling fans, lights, outlets, and switches.</sub>
 
 - [**hibp-checker**](https://github.com/ctrlcmdshft/hibp-checker) <br>
-  <sub>Python tool to check email breaches and password leaks using Have I Been Pwned API.</sub>
+  <sub>Python · Check email addresses and passwords against the Have I Been Pwned breach database.</sub>
 
 - [**RedditQuickAccess**](https://github.com/ctrlcmdshft/RedditQuickAccess) <br>
-  <sub>Quick access buttons for Reddit saved posts and messages.</sub>
+  <sub>JavaScript · Browser extension for quick access to Reddit saved posts and messages.</sub>
 
 ---
 
-
-## 🛠️ Tech Stack
+## Stack
 
 <div>
-  <b>Languages:</b>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="javascript logo" />
+  <b>Languages:</b>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="24" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="JavaScript" title="JavaScript" />
 </div>
 <div>
-  <b>Tools:</b>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="24" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="24" alt="macos logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="24" alt="linux logo" />
+  <b>Tools:</b>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="24" alt="VS Code" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="24" alt="macOS" title="macOS" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>🌐 Explore my repositories for more!</sub>
+  <sub>Explore my repositories for more</sub>
 </div>
