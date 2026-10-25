@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="236" viewBox="0 0 580 236" role="img">
+  <title>ctrlcmdshft@ctrlcmdshft.dev: ~ — zsh</title>
+  <rect width="580" height="236" fill="#060a07"/>
+  <defs>
+    <clipPath id="window">
+      <rect x="10" y="10" width="560" height="216" rx="12"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#window)">
+    <rect x="10" y="10" width="560" height="216" fill="#0a120c"/>
+    <rect x="10" y="10" width="560" height="40" fill="#101a12"/>
+    <line x1="10" y1="50" x2="570" y2="50" stroke="#1d3a24"/>
+    <circle cx="30" cy="30.0" r="6" fill="#ff5f57"/>
+    <circle cx="48" cy="30.0" r="6" fill="#febc2e"/>
+    <circle cx="66" cy="30.0" r="6" fill="#28c840"/>
+    <text x="290.0" y="34.0" text-anchor="middle"
+          fill="#6fbf86" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Cascadia Mono', 'Liberation Mono', 'DejaVu Sans Mono', monospace">ctrlcmdshft@ctrlcmdshft.dev: ~ — zsh</text>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Cascadia Mono', 'Liberation Mono', 'DejaVu Sans Mono', monospace">
+      <text x="26.0" y="74.0" font-size="15" text-anchor="start"><tspan fill="#39ff7a">ctrlcmdshft</tspan><tspan fill="#b6ffc8">@ctrlcmdshft.dev:</tspan><tspan fill="#7fd8ff">~</tspan><tspan fill="#b6ffc8">$ git log --oneline</tspan></text>
+<text x="26.0" y="101.0" font-size="14" text-anchor="start"><tspan fill="#ffd25e">c0ffee1</tspan><tspan fill="#b6ffc8"> feat: tools for things that should just work</tspan></text>
+<text x="26.0" y="123.0" font-size="14" text-anchor="start"><tspan fill="#ffd25e">dec0ded</tspan><tspan fill="#b6ffc8"> fix: turned it off and on again</tspan></text>
+<text x="26.0" y="145.0" font-size="14" text-anchor="start"><tspan fill="#ffd25e">404c0de</tspan><tspan fill="#b6ffc8"> docs: the page was here a moment ago</tspan></text>
+<text x="26.0" y="167.0" font-size="14" text-anchor="start"><tspan fill="#ffd25e">b16c0ff</tspan><tspan fill="#b6ffc8"> chore: one more coffee, then ship it</tspan></text>
+<text x="26.0" y="197.0" font-size="15" text-anchor="start" font-weight="700"><tspan fill="#39ff7a">ctrlcmdshft</tspan><tspan fill="#b6ffc8">@ctrlcmdshft.dev:</tspan><tspan fill="#7fd8ff">~</tspan><tspan fill="#b6ffc8">$ </tspan><tspan fill="#39ff7a">exit 0</tspan></text>
+    </g>
+  </g>
+  <rect x="10.5" y="10.5" width="559" height="215" rx="12"
+        fill="none" stroke="#1d3a24"/>
+</svg>

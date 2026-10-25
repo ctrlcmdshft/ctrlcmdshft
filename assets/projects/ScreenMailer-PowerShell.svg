@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="580" height="118" viewBox="0 0 580 118" role="img">
+  <title>ScreenMailer-PowerShell</title>
+  <desc>PowerShell. Captures screenshots on a schedule and emails them.</desc>
+  <defs>
+    <clipPath id="card">
+      <rect x="0.5" y="7.5" width="579" height="103" rx="12"/>
+    </clipPath>
+  </defs>
+  <rect x="0.5" y="7.5" width="579" height="103" rx="12" fill="#0a120c" stroke="#1d3a24"/>
+  <rect x="0.5" y="21" width="4" height="76" fill="#39ff7a" clip-path="url(#card)"/>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Cascadia Mono', 'Liberation Mono', 'DejaVu Sans Mono', monospace">
+    <text x="18" y="35.0" fill="#6fbf86" font-size="12">drwxr-xr-x   ctrlcmdshft</text>
+    <text x="562" y="35.0" fill="#7fd8ff" font-size="13" text-anchor="end">PowerShell</text>
+    <text x="18" y="59.0" fill="#39ff7a" font-size="17" font-weight="700">ScreenMailer-PowerShell/</text>
+    <text x="18" y="81.0" fill="#b6ffc8" font-size="14">Captures screenshots on a schedule and emails them.</text>
+  </g>
+</svg>

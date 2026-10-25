@@ -1,48 +1,51 @@
+# Christopher Knudsen
 
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/61129128?v=4" width="100" />
-  
-  # CtrlCmdShft
-  
-  **Building tools for the things that should just work.**
-</div>
+**ctrlcmdshft** · New Jersey
 
----
+Building tools for the things that should just work.
+
+Tinkerer building Mac menu bar apps in Swift and SwiftUI, Homebridge plugins, and Unraid home-server and self-hosted tooling.
+
+<p align="center">
+  <img src="assets/terminal.svg" width="100%" alt="Terminal window titled ctrlcmdshft at ctrlcmdshft.dev. Boot log: booting ctrlcmdshft.dev ok, mounting projects ok, loading coffee.service ok, finding the exit from vim failed. Block letters spell CTRLCMDSHFT, captioned ctrl, cmd, shift. whoami prints ctrlcmdshft. about.txt reads Christopher Knudsen, New Jersey, Building tools for the things that should just work, then a tinkerer building Mac menu bar apps in Swift and SwiftUI, Homebridge plugins, and Unraid home-server and self-hosted tooling. ls lists the project directories. git status says the branch is ahead of origin/sleep by 1 coffee and that things-that-should-just-work is modified. currently.txt lists learning Swift and building macOS menu bar apps, tinkering with iOS push notifications, and tinkering with home-server automation. The prompt ends on a blinking cursor.">
+</p>
 
 ## Projects
 
-- [**homebridge-hubspace-platform**](https://github.com/ctrlcmdshft/homebridge-hubspace-platform) <br>
-  <sub>TypeScript · Homebridge plugin that bridges Hubspace smart home devices (Home Depot / Afero cloud) into Apple HomeKit. Supports ceiling fans, lights, outlets, and switches.</sub>
+Original repositories, not forks. Each panel opens the repo.
 
-- [**RedditQuickAccess**](https://github.com/ctrlcmdshft/RedditQuickAccess) <br>
-  <sub>JavaScript · Browser extension for quick access to Reddit saved posts and messages.</sub>
+<p align="center">
+  <img src="assets/ls.svg" width="100%" alt="Terminal prompt: ls -la in ~/projects. total 8. Original repositories only.">
+</p>
 
----
+<p align="center">
+<a href="https://github.com/ctrlcmdshft/homebridge-hubspace-platform"><img src="assets/projects/homebridge-hubspace-platform.svg" width="100%" alt="homebridge-hubspace-platform — TypeScript. Homebridge plugin bridging Hubspace devices (Home Depot / Afero) into Apple HomeKit."></a>
+<a href="https://github.com/ctrlcmdshft/macos-network-automount"><img src="assets/projects/macos-network-automount.svg" width="100%" alt="macos-network-automount — Shell. Mounts SMB shares on macOS when a chosen Wi-Fi network connects, and unmounts them when it drops."></a>
+<a href="https://github.com/ctrlcmdshft/RedditQuickAccess"><img src="assets/projects/RedditQuickAccess.svg" width="100%" alt="RedditQuickAccess — JavaScript. Userscript with buttons for Reddit saved posts, messages, and comment export."></a>
+<a href="https://github.com/ctrlcmdshft/BetterDiscordPatcher"><img src="assets/projects/BetterDiscordPatcher.svg" width="100%" alt="BetterDiscordPatcher — Python. Small command-line installer for BetterDiscord on macOS."></a>
+<a href="https://github.com/ctrlcmdshft/ScreenMailer-PowerShell"><img src="assets/projects/ScreenMailer-PowerShell.svg" width="100%" alt="ScreenMailer-PowerShell — PowerShell. Captures screenshots on a schedule and emails them."></a>
+<a href="https://github.com/ctrlcmdshft/unraid-trellis"><img src="assets/projects/unraid-trellis.svg" width="100%" alt="unraid-trellis — Template. Unofficial community Unraid Docker template for the upstream Trellis image."></a>
+<a href="https://github.com/ctrlcmdshft/caddy-custom"><img src="assets/projects/caddy-custom.svg" width="100%" alt="caddy-custom — Dockerfile. Prebuilt Caddy image for Unraid with Porkbun DNS and Docker label discovery."></a>
+<a href="https://github.com/ctrlcmdshft/discord-plugins"><img src="assets/projects/discord-plugins.svg" width="100%" alt="discord-plugins — JavaScript. BetterDiscord plugins. StatusDurations replaces Discord's five status-duration choices."></a>
+</p>
 
 ## Stack
 
-<div>
-  <b>Languages:</b>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="24" alt="TypeScript" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="24" alt="Python" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="JavaScript" title="JavaScript" />
-</div>
-<div>
-  <b>Tools:</b>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24" alt="Node.js" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="24" alt="VS Code" title="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="24" alt="Git" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="24" alt="macOS" title="macOS" />
-</div>
+**Languages:** Swift, SwiftUI, TypeScript, JavaScript, Python, Shell.
 
----
+**Tools:** Xcode, Zed, Git, Homebrew, Node.js (pnpm), Homebridge, Unraid, Docker (OrbStack), Vercel, Cloudflare, Firebase.
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/ctrlcmdshft" alt="Contribution heatmap" />
-</div>
+**Systems:** macOS, iOS.
 
----
+<p align="center">
+  <img src="assets/stack.svg" width="100%" alt="Terminal brew list --stack. Languages: Swift, SwiftUI, TypeScript, JavaScript, Python, Shell. Tools: Xcode, Zed, Git, Homebrew, Node.js (pnpm), Homebridge, Unraid, Docker (OrbStack), Vercel, Cloudflare, Firebase. Systems: macOS, iOS.">
+</p>
 
-<div align="center">
-  <sub>Explore my repositories for more</sub>
-</div>
+## Currently
+
+- Learning Swift and building macOS menu bar apps
+- Tinkering with iOS push notifications and home-server automation
+
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Terminal git log --oneline. Joke commits: tools for things that should just work; turned it off and on again; the page was here a moment ago; one more coffee, then ship it. The session ends with exit 0.">
+</p>
